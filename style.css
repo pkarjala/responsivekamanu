@@ -33,6 +33,8 @@ body {
 }
 .page-content {
   background-image: url('pueo-canoes-front.jpg');
+  background-size: cover;
+  background-position: center;
   margin-top: 30px;
   height: 385px;
 }
